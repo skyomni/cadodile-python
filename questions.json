@@ -1,0 +1,389 @@
+{
+  "chapters": [
+    {
+      "id": "5OA",
+      "title": "Operations & Algebraic Thinking",
+      "subtitle": "Expressions, patterns, prime factors",
+      "icon": "+-x",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What is the value of 3 x (4 + 5)?",
+          "choices": ["27", "17", "12", "35"],
+          "answer": "27"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Which expression means 'add 6 and 2, then multiply by 4'?",
+          "choices": ["4 x (6 + 2)", "6 + 2 x 4", "(4 x 6) + 2", "4 + 6 x 2"],
+          "answer": "4 x (6 + 2)"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What are the prime factors of 12?",
+          "choices": ["2 x 2 x 3", "2 x 6", "3 x 4", "1 x 12"],
+          "answer": "2 x 2 x 3"
+        },
+        {
+          "type": "true_false",
+          "question": "5 x (200 + 30) is five times as large as (200 + 30).",
+          "answer": "True"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What is the value of (8 + 2) x (3 + 1)?",
+          "choices": ["40", "14", "24", "36"],
+          "answer": "40"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Which is the prime factorization of 18?",
+          "choices": ["2 x 3 x 3", "2 x 9", "3 x 6", "1 x 18"],
+          "answer": "2 x 3 x 3"
+        },
+        {
+          "type": "true_false",
+          "question": "7 is a prime number.",
+          "answer": "True"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "If Rule A is 'Add 3' starting at 0, what are the first 4 terms?",
+          "choices": ["0, 3, 6, 9", "3, 6, 9, 12", "1, 3, 6, 9", "0, 3, 5, 8"],
+          "answer": "0, 3, 6, 9"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What is 2 x [3 + (4 x 2)]?",
+          "choices": ["22", "18", "14", "20"],
+          "answer": "22"
+        },
+        {
+          "type": "true_false",
+          "question": "9 is a prime number.",
+          "answer": "False"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Which is the prime factorization of 30?",
+          "choices": ["2 x 3 x 5", "5 x 6", "3 x 10", "2 x 15"],
+          "answer": "2 x 3 x 5"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Rule A: 'Add 2' from 0. Rule B: 'Add 4' from 0. How do the patterns compare?",
+          "choices": ["B terms are twice A terms", "A terms are twice B terms", "They are equal", "B terms are half of A terms"],
+          "answer": "B terms are twice A terms"
+        }
+      ]
+    },
+    {
+      "id": "5NBT",
+      "title": "Number & Operations in Base Ten",
+      "subtitle": "Place value, decimals, multi-digit operations",
+      "icon": "123",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "In 4,532, the 5 is worth how much?",
+          "choices": ["500", "50", "5,000", "5"],
+          "answer": "500"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What is 3.7 x 10?",
+          "choices": ["37", "0.37", "370", "3.70"],
+          "answer": "37"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Which is greater: 0.45 or 0.405?",
+          "choices": ["0.45", "0.405", "They are equal", "Cannot tell"],
+          "answer": "0.45"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Round 3.847 to the nearest tenth.",
+          "choices": ["3.8", "3.9", "3.85", "4.0"],
+          "answer": "3.8"
+        },
+        {
+          "type": "true_false",
+          "question": "In a number, each place is 10 times the place to its right.",
+          "answer": "True"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What is 24.6 + 3.85?",
+          "choices": ["28.45", "28.1", "27.45", "63.1"],
+          "answer": "28.45"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What is 10 to the power of 3 (10^3)?",
+          "choices": ["1,000", "30", "100", "10,000"],
+          "answer": "1,000"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What is 5.2 - 1.87?",
+          "choices": ["3.33", "3.43", "3.67", "3.23"],
+          "answer": "3.33"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What is 0.6 x 0.3?",
+          "choices": ["0.18", "1.8", "0.9", "18"],
+          "answer": "0.18"
+        },
+        {
+          "type": "true_false",
+          "question": "4.50 and 4.5 have the same value.",
+          "answer": "True"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What is 1,456 divided by 32?",
+          "choices": ["45.5", "46", "44", "45"],
+          "answer": "45.5"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What is 2.4 x 100?",
+          "choices": ["240", "24", "2400", "0.024"],
+          "answer": "240"
+        }
+      ]
+    },
+    {
+      "id": "5NF",
+      "title": "Number & Operations - Fractions",
+      "subtitle": "Add, subtract, multiply & divide fractions",
+      "icon": "a/b",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What is 1/3 + 1/4?",
+          "choices": ["7/12", "2/7", "1/7", "5/12"],
+          "answer": "7/12"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What is 3/4 - 1/2?",
+          "choices": ["1/4", "1/2", "2/4", "2/2"],
+          "answer": "1/4"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What is 2/3 x 6?",
+          "choices": ["4", "3", "12", "2"],
+          "answer": "4"
+        },
+        {
+          "type": "true_false",
+          "question": "3/4 means 3 divided by 4.",
+          "answer": "True"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What is 1/2 x 3/5?",
+          "choices": ["3/10", "4/7", "3/7", "1/5"],
+          "answer": "3/10"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What is (1/3) divided by 4?",
+          "choices": ["1/12", "4/3", "1/7", "3/4"],
+          "answer": "1/12"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What is 5 divided by (1/3)?",
+          "choices": ["15", "5/3", "3/5", "1/15"],
+          "answer": "15"
+        },
+        {
+          "type": "true_false",
+          "question": "Multiplying a number by 1/2 makes it smaller.",
+          "answer": "True"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Which is a reasonable estimate for 2/5 + 1/2?",
+          "choices": ["Close to 1", "Close to 3", "Close to 1/2", "Close to 0"],
+          "answer": "Close to 1"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What is 2 and 1/3 + 1 and 1/6?",
+          "choices": ["3 and 1/2", "3 and 2/9", "3 and 1/3", "4"],
+          "answer": "3 and 1/2"
+        },
+        {
+          "type": "true_false",
+          "question": "Multiplying a number by 3/2 makes it bigger.",
+          "answer": "True"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "If 3 people share 1/2 pound of candy equally, how much does each person get?",
+          "choices": ["1/6 pound", "1/3 pound", "3/2 pounds", "1/2 pound"],
+          "answer": "1/6 pound"
+        }
+      ]
+    },
+    {
+      "id": "5MD",
+      "title": "Measurement & Data",
+      "subtitle": "Conversions, line plots & volume",
+      "icon": "cm3",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "How many centimeters are in 3 meters?",
+          "choices": ["300", "30", "3000", "0.03"],
+          "answer": "300"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "A box is 4 cm long, 3 cm wide, and 2 cm tall. What is its volume?",
+          "choices": ["24 cubic cm", "9 cubic cm", "20 cubic cm", "12 cubic cm"],
+          "answer": "24 cubic cm"
+        },
+        {
+          "type": "true_false",
+          "question": "Volume is measured in square units.",
+          "answer": "False"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Which formula finds the volume of a rectangular prism?",
+          "choices": ["V = l x w x h", "V = l + w + h", "V = l x w", "V = 2(l + w)"],
+          "answer": "V = l x w x h"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "How many grams are in 5 kilograms?",
+          "choices": ["5,000", "500", "50", "50,000"],
+          "answer": "5,000"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "A cube has sides of 3 inches. What is its volume?",
+          "choices": ["27 cubic in", "9 cubic in", "18 cubic in", "12 cubic in"],
+          "answer": "27 cubic in"
+        },
+        {
+          "type": "true_false",
+          "question": "You can find the volume of an L-shaped solid by adding the volumes of two rectangular prisms.",
+          "answer": "True"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "How many milliliters are in 2 liters?",
+          "choices": ["2,000", "200", "20", "20,000"],
+          "answer": "2,000"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "A prism has a base area of 12 sq ft and height of 5 ft. What is its volume?",
+          "choices": ["60 cubic ft", "17 cubic ft", "120 cubic ft", "24 cubic ft"],
+          "answer": "60 cubic ft"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "How many feet are in 3 yards?",
+          "choices": ["9", "6", "12", "3"],
+          "answer": "9"
+        },
+        {
+          "type": "true_false",
+          "question": "A unit cube has a volume of 1 cubic unit.",
+          "answer": "True"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Convert 5 cm to meters.",
+          "choices": ["0.05 m", "0.5 m", "50 m", "500 m"],
+          "answer": "0.05 m"
+        }
+      ]
+    },
+    {
+      "id": "5G",
+      "title": "Geometry",
+      "subtitle": "Coordinate plane & 2D figure classification",
+      "icon": "XY",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "On a coordinate plane, which axis goes left to right?",
+          "choices": ["x-axis", "y-axis", "z-axis", "origin"],
+          "answer": "x-axis"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What is the point (0, 0) called on a coordinate plane?",
+          "choices": ["The origin", "The vertex", "The endpoint", "The center"],
+          "answer": "The origin"
+        },
+        {
+          "type": "true_false",
+          "question": "A square is always a rectangle.",
+          "answer": "True"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Point A is at (3, 5). How far right of the origin is it?",
+          "choices": ["3 units", "5 units", "8 units", "2 units"],
+          "answer": "3 units"
+        },
+        {
+          "type": "true_false",
+          "question": "A rectangle is always a square.",
+          "answer": "False"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Which shape has exactly 4 right angles and 4 equal sides?",
+          "choices": ["Square", "Trapezoid", "Rhombus", "Triangle"],
+          "answer": "Square"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What ordered pair is 2 right and 7 up from the origin?",
+          "choices": ["(2, 7)", "(7, 2)", "(2, 2)", "(7, 7)"],
+          "answer": "(2, 7)"
+        },
+        {
+          "type": "true_false",
+          "question": "All rhombuses have 4 equal sides.",
+          "answer": "True"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Which of these is NOT a quadrilateral?",
+          "choices": ["Triangle", "Rectangle", "Trapezoid", "Square"],
+          "answer": "Triangle"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "In the ordered pair (6, 2), which number tells you how far UP to go?",
+          "choices": ["2", "6", "8", "4"],
+          "answer": "2"
+        },
+        {
+          "type": "true_false",
+          "question": "All squares have 4 right angles because they are rectangles.",
+          "answer": "True"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "A parallelogram has opposite sides that are ___.",
+          "choices": ["Parallel and equal", "Perpendicular", "Curved", "Different lengths"],
+          "answer": "Parallel and equal"
+        }
+      ]
+    }
+  ]
+}
